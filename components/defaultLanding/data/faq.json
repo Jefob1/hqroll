@@ -1,14 +1,18 @@
 [
   {
-    "question": "What is BoxyHQ?",
-    "answer": "Enterprise readiness for B2B SaaS, straight out of the box."
+    "question": "What is the purpose of the superadmin SaaS?",
+    "answer": "The superadmin SaaS serves as a centralized tool to manage access and control across multiple projects efficiently."
   },
   {
-    "question": "What BoxyHQ offers?",
-    "answer": "At BoxyHQ we enable you to add plug-and-play enterprise-ready features to your SaaS product. Show enterprise customers and InfoSec teams you are ready to pass their processes with flying colors. We are open-source and free!"
+    "question": "How does the authentication process work?",
+    "answer": "Authentication is handled securely, providing a standardized way for users to grant access without compromising credentials."
   },
   {
-    "question": "Is BoxyHQ offers developer security tools?",
-    "answer": "We have curated a list of awesome open-source developer security tools.It includes security principles and controls relevant to popular compliance certifications (like ISO27001, SOC2, MVSP, etc.)"
+    "question": "What kind of API integration is used?",
+    "answer": "RESTful APIs or GraphQL can be employed for seamless integration. Choose based on your project's specific needs and requirements."
+  },
+  {
+    "question": "Is there a testing environment available?",
+    "answer": "Yes, a sandbox environment is set up for testing API integration without impacting live projects. Tools like Postman or Insomnia can aid in this process."
   }
 ]
